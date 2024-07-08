@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://ahmetgulmez.com.tr" target="_blank">
-     ![ahmetgulmez com tr](https://github.com/theahmetgg/developer-portfolio/assets/92268751/9b2bc0b7-1010-41a5-916b-24e70a116af7)
+    ![ahmetgulmez com tr](https://github.com/theahmetgg/developer-portfolio/assets/92268751/a3f2ed2a-9798-4704-ba9f-7bcf2610bd90)
 
     </a>
   <br />
@@ -15,9 +15,7 @@
 
   <h3 align="center">A Modern Next.js Portfolio</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+  
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
