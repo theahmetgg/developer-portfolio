@@ -12,13 +12,6 @@
    </a>
 <br />
 
-<<<<<<< HEAD
-=======
-    
-
->>>>>>> 163ac28a79a047e50fcf48363bef4b760f713abc
-
-
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-Framer-black?style=for-the-badge&logoColor=white&logo=framer&color=0055FF" alt="framer" />
@@ -68,9 +61,9 @@ Follow these steps to set up the project locally on your machine.
 
 Make sure you have the following installed on your machine:
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+[Git](https://git-scm.com/)
+[Node.js](https://nodejs.org/en)
+[npm](https://www.npmjs.com/) (Node Package Manager)
 
 **Cloning the Repository**
 
