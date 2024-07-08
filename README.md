@@ -10,11 +10,7 @@
     <a href="https://www.figma.com/design/qnxbFk695lAp69OExqDJXn/Portfolio?node-id=0-1&t=BTVYgzySw63dgK3O-1
     " target="_blank">Design is here
    </a>
-
-
-    <br />
-
-
+<br />
 
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
@@ -65,9 +61,9 @@ Follow these steps to set up the project locally on your machine.
 
 Make sure you have the following installed on your machine:
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+[Git](https://git-scm.com/)
+[Node.js](https://nodejs.org/en)
+[npm](https://www.npmjs.com/) (Node Package Manager)
 
 **Cloning the Repository**
 
