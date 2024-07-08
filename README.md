@@ -17,16 +17,6 @@
   
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
-
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Code to Copy](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
-
 ## <a name="introduction">🤖 Introduction</a>
 
 Built with Next.js for handling the user interface, Three.js for rendering 3D elements, Framer motion for beautiful animations, and styled with TailwindCSS, this portfolio demonstrates the developer's skills in a unique manner that creates a lasting impact.
