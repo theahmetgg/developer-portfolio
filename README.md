@@ -5,6 +5,18 @@
    </a>
   <br />
 
+## <a name="introduction">🤖 Figma Design</a>
+<div align="center">
+  <br />
+    <a href="https://www.figma.com/design/qnxbFk695lAp69OExqDJXn/Portfolio?node-id=0-1&t=BTVYgzySw63dgK3O-1
+    " target="_blank">
+   </a>
+
+
+  
+
+
+
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-Framer-black?style=for-the-badge&logoColor=white&logo=framer&color=0055FF" alt="framer" />
