@@ -1,9 +1,7 @@
 <div align="center">
   <br />
     <a href="https://ahmetgulmez.com.tr" target="_blank">
-    (https://github.com/theahmetgg/developer-portfolio/assets/92268751/a3f2ed2a-9798-4704-ba9f-7bcf2610bd90)
-
-    </a>
+    (https://github.com/theahmetgg/developer-portfolio/assets/92268751/a3f2ed2a-9798-4704-ba9f-7bcf2610bd90)</a>
   <br />
 
   <div>
