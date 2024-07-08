@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://ahmetgulmez.com.tr" target="_blank">
-    ![ahmetgulmez com tr](https://github.com/theahmetgg/developer-portfolio/assets/92268751/a3f2ed2a-9798-4704-ba9f-7bcf2610bd90)
+    (https://github.com/theahmetgg/developer-portfolio/assets/92268751/a3f2ed2a-9798-4704-ba9f-7bcf2610bd90)
 
     </a>
   <br />
@@ -27,14 +27,6 @@
 5. 🕸️ [Code to Copy](#snippets)
 6. 🔗 [Assets](#links)
 7. 🚀 [More](#more)
-
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/FTH6Dn3AyIQ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
