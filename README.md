@@ -30,10 +30,10 @@ Built with Next.js for handling the user interface, Three.js for rendering 3D el
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Next.js
-- Three.js
-- Framer Motion
-- Tailwind CSS
+👉 Next.js
+👉 Three.js
+👉 Framer Motion
+👉 Tailwind CSS
 
 ## <a name="features">🔋 Features</a>
 
