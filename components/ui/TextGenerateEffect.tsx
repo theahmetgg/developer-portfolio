@@ -24,7 +24,7 @@ export const TextGenerateEffect = ({
         delay: stagger(0.2),
       },
     );
-  }, [animate]); // 'animate' bağımlılık dizisine eklendi
+  }, [animate]);
 
   const renderWords = () => {
     return (
