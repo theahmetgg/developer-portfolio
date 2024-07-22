@@ -42,7 +42,7 @@ const Hero = () => {
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
             Hi! I&apos;m Ahmet, a Front end Developer based in Turkey.
           </p>
-          <a href="#about">
+          <a href="#projects">
             <MagicButton
               title="Show My Work"
               icon={<FaLocationArrow />}
