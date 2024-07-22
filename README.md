@@ -5,15 +5,12 @@
    </a>
   <br />
 
-<<<<<<< HEAD
-## <a name="Figma Design">👾 Figma Design</a>
 <div align="center">
-    <a href="https://www.figma.com/design/qnxbFk695lAp69OExqDJXn/Portfolio?node-id=0-1&t=BTVYgzySw63dgK3O-1
-    " target="_blank">Design is here
-   </a>
-=======
-## <a href="https://www.figma.com/design/qnxbFk695lAp69OExqDJXn/Portfolio?node-id=0-1&t=BTVYgzySw63dgK3O-1" target="_blank">👾 Figma Design is Here</a>   
->>>>>>> 58e8391264795e4e8d23353fcc3e911ca8e978e2
+## <a href="https://www.figma.com/design/qnxbFk695lAp69OExqDJXn/Portfolio?node-id=0-1&t=BTVYgzySw63dgK3O-1" target="_blank">👾 Figma Design is Here</a> 
+
+</div>
+##   
+
 <br />
 
   <div>
